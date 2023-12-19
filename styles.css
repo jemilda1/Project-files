@@ -17,60 +17,111 @@ li{
 }
 .box1{
     display:flex;
+    justify-content:space-between;
     align-items: center;
-    margin-left: 50px;
-    margin-right: 30px;
-    padding-bottom: 20px;
+    margin:50px;
     
 }
 
 button{
     background-color:greenyellow;
 }
+.box2{
+    background-color: lightblue;
+    
+}
 .box3{
     display:flex;
     justify-content: space-between;
     align-items: center;
+    margin-right:50px;
     margin-left:50px;
-    margin-right:40px;
+    padding-top:2px;
 }
 .box4{
     display:flex;
+    justify-content:space-between;
+    margin-right:50px;
     margin-left:50px;
-    margin-right:30px;
-   
 }
-.box2{
-    background-color: aliceblue;
+.box11{
+    margin-top:3px;
+    margin-bottom:10px;
+    padding-right: 50px;
+    padding-left:20px;
+    background-color: white;
+}
+.box22{
+    margin-top:3px;
+    margin-bottom:10px;
+    padding-right:50px;
+    padding-left:20px;
+    background-color: white;
+}
+.box77{ 
+    margin-right: 50px;
+    margin-right: 50px;
+} 
+.box8{
+    margin-left: 50px;
 }
 
 .box5{
     display:flex;
+    justify-content: space-between;
     margin-left:50px;
-    margin-right:30px;
+    margin-right:60px;
     align-items: center;
+}
+.box55{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 420px;
+    color: cadetblue;
 }
 .box6{
     display:flex;
+    justify-content: space-between;
     margin-left:50px;
     margin-right:30px;
     align-items:center;
 }
+.box44{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 450px;
+    color: cadetblue;
+    
+
+}
+
 .box7{
     display:flex;
+    justify-content: space-between;
     margin-left: 50px;
     margin-right: 30px;
     align-items: center;
     
 }
+.box66{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 450px;
+    color: cadetblue;
+}
 h6{
     width:40px;
     height:15px;
     border-radius: 20px;
-    background-color:brown
-    
+    background-color:brown;
+    color: white;
     
 }
-.box8{
-    margin-left: 50px;
-}
+
+
+
+
+
